@@ -1,0 +1,4 @@
+name: three.time
+version: 'V1.0'
+main: org.kiki988325.three.time.Three.time
+api-version: '1.21'
